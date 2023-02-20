@@ -1,0 +1,1 @@
+hour = int(datetime.datetime.now().hour)

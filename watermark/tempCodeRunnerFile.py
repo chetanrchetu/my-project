@@ -1,0 +1,1 @@
+print(pic.shape)
